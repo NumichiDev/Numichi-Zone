@@ -2,7 +2,7 @@
 name: Give idea
 about: Suggest an idea for this project
 title: ''
-labels: idea
+labels: type/idea
 assignees: ''
 
 ---

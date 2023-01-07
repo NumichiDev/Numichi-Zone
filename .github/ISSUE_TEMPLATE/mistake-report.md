@@ -2,7 +2,7 @@
 name: Mistake Report
 about: Create a report to help us improve
 title: ''
-labels: report
+labels: type/report
 assignees: ''
 
 ---
